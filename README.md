@@ -245,8 +245,9 @@ return 0;
 ```
 OUTPUT :
 
-![image](https://github.com/22003399/cryptography_19CS412_classical_techni/assets/121918391/ee02a62b-5eed-4de8-bb39-4881cec18c8a)
+![image](https://github.com/22003399/cryptography_19CS412_classical_techni/assets/121918391/f21fbccc-ccef-42b5-9049-32cb466c2bac)
 
+![image](https://github.com/22003399/cryptography_19CS412_classical_techni/assets/121918391/5ee43245-e9f5-49f4-8122-e87df4ec5689)
 
 
 RESULT :
